@@ -1,4 +1,4 @@
-VIA_ENABLE = no
+VIA_ENABLE = yes
 VIAL_ENABLE = yes
 VIALRGB_ENABLE = no
 LTO_ENABLE = yes
