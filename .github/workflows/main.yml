@@ -36,12 +36,12 @@ jobs:
       - name: Build firmware
         working-directory: vial-qmk
         run: |
-          qmk compile -kb fourier -km vial
+          qmk compile -kb atom47 -km vial
 
       - name: Upload firmware
         uses: actions/upload-artifact@v4
         with:
-          name: fourier-vial-firmware
+          name: atom47-vial-firmware
           path: |
             vial-qmk/*.uf2
             vial-qmk/*.hex
