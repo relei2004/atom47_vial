@@ -102,7 +102,10 @@
         "bootmagic": false,
         "mousekey": false,
         "extrakey": false,
-        "rgb_matrix": false
+        "rgb_matrix": false,
+        "command": false,
+        "nkro": false,
+        "rgblight": false
     },
     "qmk": {
         "locking": {
