@@ -97,7 +97,7 @@
     },
     "diode_direction": "COL2ROW",
     "processor": "atmega32u4",
-    "bootloader": "qmk-dfu",
+    "bootloader": "caterina",
     "features": {
         "bootmagic": false,
         "mousekey": false,
@@ -106,8 +106,8 @@
     },
     "qmk": {
         "locking": {
-            "enabled": true,
-            "resync": true
+            "enabled": false,
+            "resync": false
         }
     },
     "layout_aliases": {
