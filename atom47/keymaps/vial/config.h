@@ -33,7 +33,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //#define NO_ACTION_TAPPING
 //#define NO_ACTION_ONESHOT
 
-#define IS31FL3733_I2C_ADDRESS_1 IS31FL3733_I2C_ADDRESS_GND_GND
+//#define IS31FL3733_I2C_ADDRESS_1 IS31FL3733_I2C_ADDRESS_GND_GND
 #define VIAL_KEYBOARD_UID {0x33, 0x32, 0x44, 0x66, 0x88, 0x11, 0x55, 0x79}
 #define VIAL_UNLOCK_COMBO_ROWS {0, 1}
 #define VIAL_UNLOCK_COMBO_COLS {0, 1}
