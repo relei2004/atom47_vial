@@ -99,7 +99,7 @@
     "processor": "atmega32u4",
     "bootloader": "qmk-dfu",
     "features": {
-        "bootmagic": true,
+        "bootmagic": false,
         "mousekey": false,
         "extrakey": false,
         "rgb_matrix": false
