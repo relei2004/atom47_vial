@@ -9,10 +9,10 @@
     },
     "rgb_matrix": {
         "animations": {
-            "alphas_mods": false,
+            "alphas_mods": true,
             "gradient_up_down": false,
             "gradient_left_right": false,
-            "breathing": false,
+            "breathing": true,
             "band_sat": false,
             "band_val": false,
             "band_pinwheel_sat": false,
@@ -102,10 +102,10 @@
         "bootmagic": false,
         "mousekey": false,
         "extrakey": false,
-        "rgb_matrix": false,
+        "rgb_matrix": true,
         "command": false,
         "nkro": false,
-        "rgblight": false
+        "rgblight": true
     },
     "qmk": {
         "locking": {
