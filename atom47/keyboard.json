@@ -105,7 +105,7 @@
         "rgb_matrix": true,
         "command": false,
         "nkro": false,
-        "rgblight": true
+        "rgblight": false
     },
     "qmk": {
         "locking": {
