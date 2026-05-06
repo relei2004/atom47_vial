@@ -2,6 +2,8 @@
 
 Custom Vial enabled firmware for the Atom47 keyboard based on vial-qmk.
 
+![Atom47](pics/IMG_7511.jpeg)
+
 ## Features
 
 - Vial support
