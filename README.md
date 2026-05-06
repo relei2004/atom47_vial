@@ -80,11 +80,7 @@ The previous rev5 structure is no longer required.
 
 RGB driver initialization and LED mappings were moved into:
 
-text atom47.c 
-
-## Repository Structure
-
-text atom47/ ├── atom47.c ├── config.h ├── rules.mk ├── info.json ├── vial.json └── keymaps/     └── vial/ 
+text atom47.c
 
 ## Build
 
